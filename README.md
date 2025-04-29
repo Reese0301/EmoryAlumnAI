@@ -5,14 +5,29 @@ A chatbot designed by our team to accelerate the writing process for the writers
 
 ### How to run it on your own machine
 
-1. Install the requirements
+You need to install: 
+(1)Python
+(2)virtual environment 
+(3)Langflow
 
-   ```
-   $ pip install -r requirements.txt
-   ```
+Python 3.10 to 3.13  (https://www.python.org/downloads/release/python-3100/)
+This is a prerequisite to using Streamlit, which is a package in Python that builds the app’s interactive webpage front end. 	
 
-2. Run the app
+Visual Studio helps you edit the code in a user friendly interface.
+Install Visual Studio (https://visualstudio.microsoft.com/) 
+Click Download Visual Studio, when redirected follow the instructions on the page.
 
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+A virtual environment created with uv or venv (https://docs.astral.sh/uv/pip/environments/)
+
+To install Langflow, use the following commands in the command line app 
+
+
+(in the windows powershell): $ uv venv
+-uv pip install langflow (wait for a few minutes, if error shows, try restarting it, running it as an administrator)
+uv run langflow run
+Once you get the link, paste it in the browser and there you have it.
+
+
+
+More details can be found here at this link.
+
