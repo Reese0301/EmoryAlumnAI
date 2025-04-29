@@ -1,8 +1,7 @@
-# 💬 Emory AlumnAI Chatbots
+# 💬 Emory AlumnAI Chatbots 💬
 
-Place a sentence about this app: this AIA simple Streamlit app that shows how to build a chatbot using OpenAI's GPT-3.5.
+A chatbot designed by our team to accelerate the writing process for the writers from Emory’s Advancement & Alumni Engagement. 
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chatbot-template.streamlit.app/)
 
 ### How to run it on your own machine
 
